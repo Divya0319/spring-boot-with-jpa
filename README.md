@@ -17,3 +17,22 @@ The application has no frontend portion, just the backend, returning data in the
     
    **DELETE  /employees{employeeId}** - for removing an employee by giving id.  
    
+   
+   ## Demo of working of application:
+   
+   Get all employees  
+   ![](https://github.com/Divya0319/spring-boot-with-jpa/blob/master/screencaptures/spring-boot-jpa-get-all-employees.gif)
+   
+   Get single employee by id  
+   ![](https://github.com/Divya0319/spring-boot-with-jpa/blob/master/screencaptures/spring-boot-jpa-get-single-employee.gif)
+   
+   Create new employee  
+   ![](https://github.com/Divya0319/spring-boot-with-jpa/blob/master/screencaptures/spring-boot-jpa-create-employee.gif)
+   
+   Update an employee  
+   ![](https://github.com/Divya0319/spring-boot-with-jpa/blob/master/screencaptures/spring-boot-jpa-update-employee.gif)
+   
+   Delete an employee  
+   ![](https://github.com/Divya0319/spring-boot-with-jpa/blob/master/screencaptures/spring-boot-jpa-delete-employee.gif)
+   
+   
